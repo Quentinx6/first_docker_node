@@ -4,6 +4,6 @@ Exercice avec Jerome, créer un file "dockerfile", build pour avoir une image, r
 
 Commande
 
-docker build [myport:3000] -t [nomDuProjet]:[flag]
+docker build [myport:port du container] -t [nomDuProjet]:[flag]
 
 docker run [nomDuProjet]
